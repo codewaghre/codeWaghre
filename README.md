@@ -1,4 +1,4 @@
-- console.log() is still a legit debugging tool.
+### console.log() is still a legit debugging tool.
 ---
 
 - Full Stack Dev with 1 year of building, breaking, and fixing things.
